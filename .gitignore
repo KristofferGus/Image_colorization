@@ -1,0 +1,4 @@
+
+*.ckpt
+project/Humans/*
+project/archive.zip
