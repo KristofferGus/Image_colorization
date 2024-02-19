@@ -1,1 +1,1 @@
-![Image Description](project\poster_colorization.png)
+![Image Description](project/poster_colorization.png)
